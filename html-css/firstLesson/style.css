@@ -1,0 +1,17 @@
+body{
+    margin-left:100px;
+    margin-right:100px;
+    background-color: #f96acf;
+}
+.otstupVverh{
+    margin-top: 50px;
+    color: #fff;
+}
+#sode{
+    margin-top: 50px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
